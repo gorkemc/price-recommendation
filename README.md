@@ -1,7 +1,7 @@
 # Price Recommendation for Online Retail Sellers
 
 
-This project was prepared as part of Bachelor's Graduation Projcet at <a href="http://www.boun.edu.tr/en-US/Index">Bogazici University</a> 
+This project was prepared as part of Bachelor's Graduation Project at <a href="http://www.boun.edu.tr/en-US/Index">Bogazici University</a> 
 Department of Management Information Systems in 2021. 
 The aim of the project is to recommend selling price for products according to their features such as category, brand etc. in order to enable online retail sellers to better price their products.
 
